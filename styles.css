@@ -1,0 +1,29 @@
+.container{
+    display:flex;
+    border: 3px;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+#header_logo{
+    height: 100px;
+    width: 100px;
+}
+
+#highlight{
+    border: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 300px;
+    width: 100vw;
+}
+
+#feat_img{
+    border: 5px;
+    height: 200px;
+    width: 500px;
+}
